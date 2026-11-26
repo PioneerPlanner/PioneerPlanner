@@ -1,44 +1,44 @@
 PioneerPlanner est un logiciel gratuit et indépendant développé par un passionné de Phantasy Star Online.
 
-Son objectif est de permettre aux joueurs de créer, personnaliser et optimiser leurs personnages sans avoir à effectuer manuellement les différents calculs de statistiques.
+Son objectif est de permettre aux joueurs de créer, personnaliser et optimiser à terme leurs personnages sans avoir à effectuer manuellement les différents calculs de statistiques.
 
 Fonctionnalités disponibles — v0.1.0
 
-Création de personnages.
+-Création de personnages.
 
-Gestion et attribution des statistiques.
+-Gestion et attribution des statistiques.
 
-Intégration des Units et de leurs bonus.
+-Intégration des Units et de leurs bonus.
 
-Calcul des statistiques du personnage.
+-Calcul des statistiques du personnage.
 
-Téléchargement
+-Téléchargement
 
-La première version publique est en cours de préparation.
+-La première version publique est en cours de préparation.
 
 Configuration requise :
 
-Windows 64 bits.
+-Windows 64 bits.
 
-Aucune installation supplémentaire nécessaire.
+-Aucune installation supplémentaire nécessaire.
 
-Interface actuellement disponible en français.
+-Interface actuellement disponible uniquement en français.
 
 Prochaines mises à jour
 
-v0.2.0
+-v0.2.0
 
-Intégration des MAGs.
+-Intégration des MAGs.
 
-Corrections de bugs.
+-Corrections de bugs.
 
-Améliorations selon les retours de la communauté.
+-Améliorations selon les retours de la communauté.
 
-Retours et suggestions
+-Retours et suggestions
 
 PioneerPlanner est encore en développement.
 
-N'hésitez pas à partager vos suggestions, à signaler les éventuels bugs ou à proposer de nouvelles fonctionnalités dans la section Issues ou Discussions.
+N'hésitez pas à partager vos suggestions, à signaler les éventuels bugs ou à proposer de nouvelles fonctionnalités.
 
 Crédits
 
