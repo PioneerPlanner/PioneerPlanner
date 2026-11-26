@@ -1,0 +1,19 @@
+PioneerPlanner — Conditions d'utilisation
+
+Copyright © 2026 PioneerPlanner.
+
+Tous droits réservés sur le code et les créations originales du projet.
+
+PioneerPlanner est un logiciel gratuit destiné à un usage personnel et non commercial.
+
+L'utilisation du logiciel est autorisée gratuitement.
+
+La revente, l'exploitation commerciale, la modification et la redistribution du logiciel sans autorisation préalable de son auteur ne sont pas autorisées, sous réserve des droits prévus par la loi et des licences tierces applicables.
+
+Le code source de PioneerPlanner n'est pas public.
+
+Le logiciel est fourni en l'état, sans garantie de fonctionnement, d'exactitude des données ou de compatibilité.
+
+PioneerPlanner est un projet communautaire indépendant, non affilié à SEGA ni à Sonic Team.
+
+Les ressources appartenant à des tiers restent la propriété de leurs ayants droit et ne sont pas couvertes par la présente licence.
