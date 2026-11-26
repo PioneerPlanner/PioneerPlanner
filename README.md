@@ -1,78 +1,68 @@
 # PioneerPlanner
 
-![Version](https://img.shields.io/badge/Version-0.1.0-blue)
-![Platform](https://img.shields.io/badge/Windows-x64-0078D6)
-![License](https://img.shields.io/badge/Freeware-Gratuit-green)
-![Language](https://img.shields.io/badge/Langue-Français-blue)
+![Version](https://img.shields.io/badge/Version-0.1.0--alpha-0891b2)
+![Windows](https://img.shields.io/badge/Windows-x64-0078D6)
+![Langue](https://img.shields.io/badge/Langue-Français-blue)
+![Prix](https://img.shields.io/badge/Prix-Gratuit-green)
 
-## Présentation
+Outil gratuit de planification de personnages pour **Phantasy Star Online Episode I & II**.
 
-PioneerPlanner est un logiciel gratuit et indépendant développé par un passionné de Phantasy Star Online.
+PioneerPlanner est un projet communautaire indépendant conçu pour faciliter la gestion et l’optimisation des personnages.
 
-Son objectif est de permettre aux joueurs de créer, personnaliser et optimiser leurs personnages sans avoir à effectuer manuellement les différents calculs de statistiques.
+![Centre de commandement](screenshots/home.png)
 
-## Fonctionnalités disponibles
+## Fonctionnalités — v0.1.0 Alpha
 
-### Version 0.1.0
+- Création et gestion de plusieurs personnages.
+- Calcul des statistiques selon la classe et le niveau.
+- Visualisation des plafonds et des points excédentaires.
+- Gestion des matériaux et de leurs limites.
+- Déduction des matériaux depuis les statistiques sans équipement.
+- Simulation manuelle des statistiques du MAG.
+- Gestion de quatre emplacements d’Units et de leurs bonus de statistiques.
 
-- Création de personnages
-- Gestion et attribution des statistiques
-- Intégration des Units et de leurs bonus
-- Calcul des statistiques du personnage
+### Statistiques du personnage
+
+![Statistiques](screenshots/stats.png)
+
+### Gestion des matériaux
+
+![Matériaux](screenshots/materials.png)
+
+### MAG et Units
+
+![MAG et Units](screenshots/mag-units.png)
+
+## Limites de la version Alpha
+
+- Interface disponible uniquement en français.
+- Certaines données de progression restent provisoires.
+- Les effets spéciaux et les variantes +/− des Units ne sont pas encore simulés.
+- Les armes et armures ne sont pas incluses dans le calcul actuel.
+- La gestion complète des MAGs est prévue pour la v0.2.0.
 
 ## Téléchargement
 
 La première version publique est en cours de préparation.
 
-### Configuration requise
-
-- Windows 64 bits
-- Version portable et autonome
-- Interface disponible en français
+Version portable et autonome pour Windows 64 bits. Une fois disponible, extraire entièrement l’archive ZIP avant de lancer `PioneerPlanner.exe`.
 
 ## Feuille de route
 
-### v0.1.0
-
-- [x] Création des personnages
-- [x] Gestion des statistiques
-- [x] Intégration des Units
-
-### v0.2.0
-
-- [ ] Intégration des MAGs
-- [ ] Corrections de bugs
-- [ ] Améliorations selon les retours des joueurs
-
-### Évolutions futures
-
-- [ ] Traduction anglaise
+- **v0.2.0 :** gestion des MAGs, corrections et améliorations selon les retours.
+- **À venir :** traduction anglaise.
 
 ## Retours et suggestions
 
-PioneerPlanner est encore en développement.
-
-Votre avis est important pour faire évoluer le logiciel.
-
 - [Signaler un bug](https://github.com/PioneerPlanner/PioneerPlanner/issues)
-- [Proposer une idée ou discuter du projet](https://github.com/PioneerPlanner/PioneerPlanner/discussions)
+- [Discuter du projet](https://github.com/PioneerPlanner/PioneerPlanner/discussions)
 
 ## Crédits
 
-Phantasy Star Online ainsi que les données et ressources originales du jeu appartiennent à SEGA et à leurs ayants droit respectifs.
-
-PioneerPlanner est un projet communautaire non officiel, gratuit et indépendant de SEGA.
+Phantasy Star Online et les ressources originales du jeu appartiennent à SEGA et à leurs ayants droit respectifs. PioneerPlanner est un projet non officiel, gratuit et indépendant de SEGA.
 
 ---
 
-## English presentation
+## English overview
 
-PioneerPlanner is a free, unofficial character and build planner for Phantasy Star Online.
-
-The application is currently available in French only.
-
-The first version includes character creation, stat planning and Unit integration.
-
-MAG integration is planned for v0.2.0.
-
-Community feedback and suggestions are welcome.
+PioneerPlanner is a free, unofficial character planner for Phantasy Star Online Episode I & II. The current alpha includes character management, stat caps, material tracking, manual MAG stat simulation and Unit stat bonuses. Some progression data is provisional. Full MAG management is planned for v0.2.0. The interface is currently French only. Feedback is welcome!
