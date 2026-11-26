@@ -1,4 +1,4 @@
-# PioneerPlanner
+![PioneerPlanner](banner.png)
 
 ![Version](https://img.shields.io/badge/Version-0.1.0--alpha-0891b2)
 ![Windows](https://img.shields.io/badge/Windows-x64-0078D6)
