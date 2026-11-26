@@ -5,6 +5,8 @@
 ![Langue](https://img.shields.io/badge/Langue-Français-blue)
 ![Prix](https://img.shields.io/badge/Prix-Gratuit-green)
 
+[![Télécharger PioneerPlanner](https://img.shields.io/badge/TÉLÉCHARGER-PioneerPlanner-00BFFF?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/PioneerPlanner/PioneerPlanner/releases/tag/v0.1.0-alpha)
+
 Outil gratuit de planification de personnages pour **Phantasy Star Online Episode I & II**.
 
 PioneerPlanner est un projet communautaire indépendant conçu pour faciliter la gestion et l’optimisation des personnages.
